@@ -1,0 +1,12 @@
+{
+  "short_name": "Nephrite - Innowacyjny bot Discord",
+  "name": "Nephrite Bot",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#0E1314",
+  "theme_color": "#fb514b"
+}
